@@ -1,0 +1,224 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 250,
+      "year": 2022,
+      "description": "Direct Shift 8-speed Automatic Transmission enhances every drive.",
+      "consumption": "7.2km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Volkswagen T-Cross",
+      "price": 220,
+      "year": 2021,
+      "description": "Volkswagen T-Cross Petrol is Discontinued and no longer Produced.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Honda Civic",
+      "price": 240,
+      "year": 2021,
+      "description": "The new Honda Civic isn't a revolutionary product that the eighth generation car was.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BMW 5-Series",
+      "price": 320,
+      "year": 2021,
+      "description": "The BMW 5 Series has 1 Diesel Engine on offer. The Diesel engine is 1995 cc.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cadillac Escalade",
+      "price": 420,
+      "year": 2021,
+      "description": "Leather-wrapped interior trim including instrument cluster, and upper-door panels.",
+      "consumption": "5.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Honda City",
+      "price": 120,
+      "year": 2021,
+      "description": "The spacious and comfortable cabin, high quality interior, a long features list.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Volkswagen Polo",
+      "price": 290,
+      "year": 2021,
+      "description": "The Volkswagen Polo has 1 Diesel Engine and 2 Petrol Engine on offer.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BMW 4-Series GTI",
+      "price": 520,
+      "year": 2021,
+      "description": "BMW 4 Series is a range of compact executive cars manufactured by BMW.",
+      "consumption": "5.3km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "BMW X3",
+      "price": 420,
+      "year": 2021,
+      "description": "BMW X3 deftly blends comfort, performance and practicality. It's quick.",
+      "consumption": "4.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Volkswagen Golf",
+      "price": 220,
+      "year": 2021,
+      "description": "Golf Variant 2.0 TDI with 6-speed manual gearbox and 300 Nm torque.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cadillac Escalade",
+      "price": 280,
+      "year": 2021,
+      "description": "It's popular with celebrities due to its luxury features, spacious interior.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Honda Jazz",
+      "price": 190,
+      "year": 2021,
+      "description": "Despite a power boost in 2023 which raised output to 120bhp.",
+      "consumption": "6.2km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "BMW 3-Series",
+      "price": 230,
+      "year": 321,
+      "description": "BMW 3 Series is a line of compact executive cars manufactured by German automaker BMW.",
+      "consumption": "5.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Volkswagen Taigun",
+      "price": 360,
+      "year": 2021,
+      "description": "It has 2 Petrol Engine on offer. The Petrol engine is 999 cc and 1498 cc.",
+      "consumption": "6.6km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Honda SUV",
+      "price": 300,
+      "year": 2021,
+      "description": "It stands for 'sport utility vehicle'. It's a high-riding, comfortable car.",
+      "consumption": "6.9km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Cadillac Escalade",
+      "price": 410,
+      "year": 2021,
+      "description": "The Petrol engine is 6200 cc . It is available with Automatic transmission.",
+      "consumption": "4.9km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "BMW X",
+      "price": 710,
+      "year": 2021,
+      "description": "It has turbocharged diesel and gasoline engines gives the vehicle.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "BMW Z4 Ferrari",
+      "price": 630,
+      "year": 2021,
+      "description": "BMW Z4 stands for its eye-catching design, featuring a long hood, short overhangs.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Volkswagen Beetle",
+      "price": 460,
+      "year": 2021,
+      "description": "Volkswagen Beetle has 2 Petrol Engine on offer. The Petrol engine is 1984 cc.",
+      "consumption": "5.5km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Honda Civic t-R",
+      "price": 220,
+      "year": 2021,
+      "description": "It is special for tuned on engine, and upgraded brakes and chassis.",
+      "consumption": "7.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car20.jpg"
+    },
+    {
+      "id": 21,
+      "name": "BMW 7-Series",
+      "price": 480,
+      "year": 2021,
+      "description": "It is available in 2 variants, 2 engine options that are / compliant.",
+      "consumption": "5.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Toyota Fortuner",
+      "price": 340,
+      "year": 2022,
+      "description": "It is offered with 2.8L diesel engine and 2.7L petrol engines.",
+      "consumption": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "./image/car22.jpg"
+    }
+    
+  ]
+  
